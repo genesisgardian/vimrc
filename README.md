@@ -1,18 +1,14 @@
 Vimrc
 =====
-That is my vim config.
+This is angelboy's vim config.
+I copy that and made some modify.
 
 Install
 -------
 In Ubuntu
 
-	wget https://raw.githubusercontent.com/scwuaptx/vimrc/master/install.sh
+	wget https://raw.githubusercontent.com/genesisgardian/vimrc/master/install.sh
 	sh Install.sh
-
-In OSX
-
-	wget https://raw.githubusercontent.com/scwuaptx/vimrc/master/install-mac.sh
-	sh install-mac.sh
 
 Remark
 ------
