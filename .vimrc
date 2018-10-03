@@ -1,5 +1,6 @@
 set nu
 set nocompatible
+
 set tabstop=4
 set shiftwidth=4
 set laststatus=2
