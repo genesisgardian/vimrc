@@ -31,7 +31,6 @@ mkdir ~/.fonts
 cp ./Ubuntu\ Mono\ derivative\ Powerline-Powerline.ttf ~/.fonts/
 sudo fc-cache -vf
 vim +PowerlineClearCache +qall
-cp -rf ~/vimrc/snippets ~/.vim/
 cd
 rm -rf vimrc
 rm -rf global-6.6.2*
