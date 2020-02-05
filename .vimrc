@@ -17,18 +17,10 @@ Plugin 'Lokaltog/vim-powerline'
 Plugin 'tpope/vim-fugitive'  "branch of powerline
 Plugin 'c9s/colorselector.vim'
 Plugin 'ap/vim-css-color'
-"Plugin 'emmetio/emmet'
 Plugin 'gregsexton/MatchTag'
-Plugin 'kien/ctrlp.vim'
 Plugin 'python_match.vim'
 Plugin 'tpope/vim-surround'
-
-"Plugin 'AutoComplPop'
 Plugin 'othree/vim-autocomplpop'
-Plugin 'MarcWeber/vim-addon-mw-utils'
-Plugin 'tomtom/tlib_vim'
-Plugin 'garbas/vim-snipmate'
-Plugin 'honza/vim-snippets'
 
 Plugin 'ironcamel/vim-script-runner'
 Plugin 'xuhdev/SingleCompile'
