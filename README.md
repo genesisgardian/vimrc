@@ -8,7 +8,7 @@ Install
 In Ubuntu
 
 	wget https://raw.githubusercontent.com/genesisgardian/vimrc/master/install.sh
-	sh Install.sh
+	sh ./install.sh
 
 Remark
 ------
