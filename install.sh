@@ -28,7 +28,7 @@ cd ~/vimrc
 wget https://github.com/powerline/fonts/raw/master/UbuntuMono/Ubuntu%20Mono%20derivative%20Powerline.ttf
 ~/.vim/bundle/vim-powerline/fontpatcher/fontpatcher Ubuntu\ Mono\ derivative\ Powerline.ttf
 mkdir ~/.fonts
-cp ./Ubuntu\ Mono\ derivative\ Powerline-Powerline.ttf ~/.fonts/
+cp ./Ubuntu\ Mono\ derivative\ Powerline.ttf ~/.fonts/
 sudo fc-cache -vf
 vim +PowerlineClearCache +qall
 cd
