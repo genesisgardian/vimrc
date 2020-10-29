@@ -35,3 +35,5 @@ cd
 rm -rf vimrc
 rm -rf global-6.6.2*
 
+cp ./.tmux.conf ~/
+
