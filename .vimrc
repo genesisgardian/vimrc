@@ -5,6 +5,7 @@ set tabstop=4
 set shiftwidth=4
 set laststatus=2
 set encoding=utf-8
+set foldmethod=syntax
 filetype off
 
 set rtp+=~/.vim/bundle/vundle/
