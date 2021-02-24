@@ -31,9 +31,7 @@ mkdir ~/.fonts
 cp ./Ubuntu\ Mono\ derivative\ Powerline.ttf ~/.fonts/
 sudo fc-cache -vf
 vim +PowerlineClearCache +qall
+cp ./.tmux.conf ~/
 cd
 rm -rf vimrc
 rm -rf global-6.6.2*
-
-cp ./.tmux.conf ~/
-
