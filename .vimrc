@@ -45,6 +45,7 @@ let g:acp_behaviorSnipmateLength = 1
 let g:script_runner_key = '<F9>'
 let g:unite_source_grep_recursive_opt = ''
 let g:unite_source_grep_search_word_highlight=1
+let g:snipMate = { 'snippet_version' : 1 }
 map <Tab> :NERDTreeToggle<CR>
 nmap <F12> :SCCompileRun<cr>
 "key mapping for gtags
