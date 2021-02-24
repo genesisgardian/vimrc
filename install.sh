@@ -4,7 +4,7 @@
 sudo apt-get update
 sudo apt-get upgrade -y 
 sudo apt-get install git curl -y
-sudo apt-get install build-essential cmake python-dev python-fontforge -y
+sudo apt-get install build-essential cmake python-dev-is-python3 python3-fontforge -y
 sudo apt-get install silversearcher-ag libncurses5-dev fontconfig -y
 
 # install gnu global for trace code
